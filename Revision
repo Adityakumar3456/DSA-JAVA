@@ -1,0 +1,26 @@
+Arrays : 
+-continous data storage
+-same data type
+-Index based Access
+
+Time complexity basics :
+-Linear search - O(n) worst case
+  As it checks every value.
+
+-Move Zeros - O(n) / space - O(1)
+
+Reverse Array - Two pointer - O(n) / space O(1)
+
+Time complexity measuers how time grow with input size.
+O(1) = constant.
+O(logn) = binary search
+O(n) = single loop
+O(n^2) = nested loop
+O(n logn) = merge sort
+O(2^n) = bad recurssion
+
+Space complexity
+
+O(1) → No extra structure
+O(n) → Extra array or recursion stack
+O(log n) → Recursive binary search stack
